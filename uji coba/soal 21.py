@@ -1,6 +1,7 @@
 N = 9
 
 for i in range(N//2+1):
+                print(i)
                 spasi = " " * (N//2 - i)
                 bintang = "a" * (2*i + 1)
                 print(spasi + bintang)
