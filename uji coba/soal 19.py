@@ -13,7 +13,6 @@
 N = 5
 
 for i in range(N):
-    print(i)
     spasi = " " * (N - 1 - i)
     bintang = "*" * (2 * i + 1)
     print(spasi+bintang)
