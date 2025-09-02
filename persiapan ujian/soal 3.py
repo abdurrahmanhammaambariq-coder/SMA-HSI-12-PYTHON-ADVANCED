@@ -14,4 +14,3 @@ print(f"Untuk perjalanan {jarak} km, Anda membutuhkan {liter_bensin:.2f} liter b
 
 
 
-
