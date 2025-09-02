@@ -6,3 +6,12 @@ liter_bensin = jarak/pengeluaran
 
 hasil = jarak*pengeluaran
 print(f"Untuk perjalanan {jarak} km, Anda membutuhkan {liter_bensin:.2f} liter bensin dengan total biaya Rp {hasil:.2f}")
+
+
+
+
+
+
+
+
+

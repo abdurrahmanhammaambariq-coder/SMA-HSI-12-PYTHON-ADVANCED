@@ -1,0 +1,5 @@
+INFO: Program dimulai. 
+WARNING: Koneksi jaringan lambat. 
+INFO: Data pengguna berhasil dimuat. 
+ERROR: Gagal menulis ke database. 
+INFO: Program selesai. 
