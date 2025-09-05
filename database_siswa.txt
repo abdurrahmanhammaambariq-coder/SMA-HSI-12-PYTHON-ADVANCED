@@ -1,0 +1,4 @@
+101,Mr. Aziz Santoso,85;92;78
+102,Ustadz Dega Lazuardy,95;88;91;100
+103,Ustadz Noor Fauzi,65;72
+104,al-farros,90;76;100
