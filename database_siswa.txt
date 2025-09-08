@@ -2,3 +2,6 @@
 102,Ustadz Dega Lazuardy,95;88;91;100
 103,Ustadz Noor Fauzi,65;72
 104,al-farros,90;76;100
+105,bang rakin,90;80
+106,903,
+fauzan,juki,
